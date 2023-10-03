@@ -32,11 +32,11 @@ header h1 .seo {
 }Removed */
  
 header nav {
+    padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
-    /*Removed Padding and padding-top. Adiusted float property to ensure nav aligns to right*/
 }
 
 
@@ -67,13 +67,17 @@ figure {
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
-    
+    background-position: center;
 }
 
-.float-left,
-.float-right {
+.float-left {
     float: left;
-    margin: 0 25px 25px 0; /* combined the .float-left & .float-right classes into a single definition */
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
 }
 
 main {
