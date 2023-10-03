@@ -70,14 +70,10 @@ figure {
     
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
+.float-left,
 .float-right {
-    float: right;
-    margin-left: 25px;
+    float: left;
+    margin: 0 25px 25px 0; /* combined the .float-left & .float-right classes into a single definition */
 }
 
 main {
