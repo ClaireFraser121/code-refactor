@@ -76,9 +76,8 @@ To use the Horiseon Marketing website, simply access the landing page. This mark
 
 ## License
 
-This repo has an MIT license
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 
 
 
