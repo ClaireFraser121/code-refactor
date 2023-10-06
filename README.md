@@ -38,6 +38,7 @@ There is no installation needed for the app
 ## Usage 
 
 Usage
+
 To use the Horiseon Marketing website, simply access the landing page. This marketing landing page is designed to showcase services related to SEO (Search Engine Optimization), Online Reputation Management, and Social Media Marketing. The website has been enhanced to comply with SEO and accessibility standards, ensuring a user-friendly experience for all visitors.
 
 
@@ -51,7 +52,6 @@ To use the Horiseon Marketing website, simply access the landing page. This mark
 
 ## Credits
 
-## Credits
 
 - Author: Claire Fraser
 
