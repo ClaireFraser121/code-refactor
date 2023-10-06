@@ -2,7 +2,21 @@
 
 ## Description 
 
-add description
+Horiseon Marketing Website Accessibility Enhancement
+
+In my role as a developer, I've focused on enhancing the Horiseon Marketing website to ensure it meets accessibility standards. This project aimed to make the website more user-friendly and inclusive, especially for individuals with disabilities.
+
+Accessibility Improvements
+
+1.	Semantic HTML Elements: I've diligently incorporated semantic HTML elements throughout the source code. This ensures that the website's structure is logical, meaningful, and easy to navigate for all users and developers.
+
+2.	Accessible Alt Attributes: To improve accessibility, I've added descriptive alt attributes to all image and icon elements. These attributes provide valuable information to users who rely on screen readers, enhancing their understanding of the content.
+
+3.	Sequential Heading Attributes: Heading attributes have been restructured to follow a sequential order. Starting with <h1> for the main title and sequentially progressing to lower-level headings (<h2>, <h3>, etc.), this ensures a clear hierarchy and aids navigation.
+
+4.	Concise Title Element: The title element now contains a concise and descriptive title, "Horiseon Marketing - SEO, Online Reputation Management, and Social Media Marketing Services," providing a clear overview of the website's purpose.
+Conclusion
+This project's primary focus was on improving the website's accessibility and ensuring it adheres to best practices. These changes make the website more inclusive, user-friendly, and aligned with accessibility standards, enhancing its usability for all visitors.
 
 
 
