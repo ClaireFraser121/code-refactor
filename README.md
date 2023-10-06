@@ -20,9 +20,6 @@ This project's primary focus was on improving the website's accessibility and en
 
 
 
-
-
-
 ## Table of Contents (Optional)
 
 
