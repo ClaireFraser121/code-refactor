@@ -35,7 +35,7 @@ This project's primary focus was on improving the website's accessibility and en
 
 ## Installation
 
-there is no installation needed for the app
+There is no installation needed for the app
 
 
 ## Usage 
