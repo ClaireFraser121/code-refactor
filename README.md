@@ -43,7 +43,9 @@ To use the Horiseon Marketing website, simply access the landing page. This mark
 
 
 
-![alt text](assets/images/screenshot.png) put a screenshot of the site in chrome
+![Website in Browser](assets/images/screenshot.png)
+![Website in Browser (Scaled Down)](assets/images/screenshot2.png)
+
 
 
 
