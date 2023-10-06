@@ -52,11 +52,26 @@ To use the Horiseon Marketing website, simply access the landing page. This mark
 
 ## Credits
 
+## Credits
 
+- Author: Claire Fraser
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
+- Refactoring HTML and CSS by Christina Truong
+  - Medium: [Read Article](https://christinatruong.medium.com/)
+  - Article: [Read Article](https://christinatruong.medium.com/refactoring-html-and-css-69de73a5fb88)
 
-If you followed tutorials, include links to those here as well.
+- Detailed Guidelines on How to Refactor Code of Your Website by Jakub Wozniak
+  - Blog: [Read Article](https://www.droptica.com/blog/detailed-guidelines-how-refactor-code-your-website/)
+
+- Code Refactoring Best Practices: When (and When Not) to Do It by Sydney Stone
+  - Blog: [Read Article](https://www.altexsoft.com/blog/engineering/code-refactoring-best-practices-when-and-when-not-to-do-it/)
+
+- How to Refactor a Web Design - Like a Pro by Gary from DesignCourse
+  - YouTube Video: [Watch Video](https://www.youtube.com/watch?v=4ThnAKy4okM)
+
+- How to do an effective website refactoring by Jan Haderka
+  - Blog: [Read Article](https://www.magnolia-cms.com/blog/effective-website-refactoring.html)
+
 
 
 ## License
