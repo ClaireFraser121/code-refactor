@@ -1,6 +1,6 @@
 # code-refactor
 
-## Description 
+## Description
 
 Horiseon Marketing Website Accessibility Enhancement
 
@@ -8,50 +8,43 @@ In my role as a developer, I've focused on enhancing the Horiseon Marketing webs
 
 Accessibility Improvements
 
-1.	Semantic HTML Elements: I've diligently incorporated semantic HTML elements throughout the source code. This ensures that the website's structure is logical, meaningful, and easy to navigate for all users and developers.
+1. Semantic HTML Elements: I've diligently incorporated semantic HTML elements throughout the source code. This ensures that the website's structure is logical, meaningful, and easy to navigate for all users and developers.
 
-2.	Accessible Alt Attributes: To improve accessibility, I've added descriptive alt attributes to all image and icon elements. These attributes provide valuable information to users who rely on screen readers, enhancing their understanding of the content.
+2. Accessible Alt Attributes: To improve accessibility, I've added descriptive alt attributes to all image and icon elements. These attributes provide valuable information to users who rely on screen readers, enhancing their understanding of the content.
 
-3.	Sequential Heading Attributes: Heading attributes have been restructured to follow a sequential order. Starting with <h1> for the main title and sequentially progressing to lower-level headings (<h2>, <h3>, etc.), this ensures a clear hierarchy and aids navigation.
+3. Sequential Heading Attributes: Heading attributes have been restructured to follow a sequential order. Starting with <h1> for the main title and sequentially progressing to lower-level headings (<h2>, <h3>, etc.), this ensures a clear hierarchy and aids navigation.
 
-4.	Concise Title Element: The title element now contains a concise and descriptive title, "Horiseon Marketing - SEO, Online Reputation Management, and Social Media Marketing Services," providing a clear overview of the website's purpose.
+4. Concise Title Element: The title element now contains a concise and descriptive title, "Horiseon Marketing - SEO, Online Reputation Management, and Social Media Marketing Services," providing a clear overview of the website's purpose.
 Conclusion
 This project's primary focus was on improving the website's accessibility and ensuring it adheres to best practices. These changes make the website more inclusive, user-friendly, and aligned with accessibility standards, enhancing its usability for all visitors.
 
+### Live Links
 
+- [Horiseon Marketing Website](https://clairefraser121.github.io/horiseon-accessibility-optimization/)
+
+- [GitHub Repository](https://github.com/ClaireFraser121/horiseon-accessibility-optimization)
 
 ## Table of Contents (Optional)
 
-
-
-* [Installation](#installation)
-* [Usage](#usage)
-* [Credits](#credits)
-* [License](#license)
-
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
 
 ## Installation
 
 There is no installation needed for the app
 
-
-## Usage 
+## Usage
 
 Usage
 
 To use the Horiseon Marketing website, simply access the landing page. This marketing landing page is designed to showcase services related to SEO (Search Engine Optimization), Online Reputation Management, and Social Media Marketing. The website has been enhanced to comply with SEO and accessibility standards, ensuring a user-friendly experience for all visitors.
 
-
-
-
 ![Website in Browser](assets/images/screenshot.png)
 ![Website in Browser (Scaled Down)](assets/images/screenshot2.png)
 
-
-
-
 ## Credits
-
 
 - Author: Claire Fraser
 
@@ -71,20 +64,13 @@ To use the Horiseon Marketing website, simply access the landing page. This mark
 - How to do an effective website refactoring by Jan Haderka
   - Blog: [Read Article](https://www.magnolia-cms.com/blog/effective-website-refactoring.html)
 
-
-
 ## License
 
 This project is licensed under the **MIT License** - see the [LICENSE][def] file for details.
 
-
-
-
 ## Badges
 
 ![Static Badge](https://img.shields.io/badge/License-MIT-brightgreen)
-
-
 
 ## Contributing
 
@@ -93,10 +79,5 @@ If you created an application or package and would like other developers to cont
 ## Tests
 
 There are no tests for this app
-
-
-
-
-
 
 [def]: LICENSE
